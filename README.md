@@ -1,4 +1,4 @@
-<img width="480" height="1250" alt="pipeline-pro" src="https://github.com/user-attachments/assets/f22838f0-558c-4559-a822-86ed04dfd0e2" /><div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=180&section=header&text=Genesis%20Diaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Application%20Developer&descAlignY=60&descSize=18" />
 
@@ -24,222 +24,9 @@ My development experience comes from building systems across **AI-powered applic
 
 I enjoy working across the complete development lifecycle:
 
-![Uploading<svg width="480" height="1250" viewBox="0 0 480 1250" xmlns="http://www.w3.org/2000/svg" role="img">
-<title>Development pipeline</title>
-<desc>Animated flow diagram from Idea to Iteration</desc>
-<defs>
-  <linearGradient id="flow" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#6ee7c7" stop-opacity="0"/>
-    <stop offset="45%" stop-color="#6ee7c7" stop-opacity="1"/>
-    <stop offset="55%" stop-color="#5cc9e8" stop-opacity="1"/>
-    <stop offset="100%" stop-color="#5cc9e8" stop-opacity="0"/>
-  </linearGradient>
-  <radialGradient id="nodeGlow" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stop-color="#6ee7c7" stop-opacity="0.55"/>
-    <stop offset="100%" stop-color="#6ee7c7" stop-opacity="0"/>
-  </radialGradient>
-  <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-    <feGaussianBlur stdDeviation="3"/>
-  </filter>
-  <style>
-    <![CDATA[
-    .bg { fill: #0b0f19; }
-    .spine {
-      stroke: #263048;
-      stroke-width: 2;
-      fill: none;
-    }
-    .flowline {
-      stroke: url(#flow);
-      stroke-width: 3;
-      fill: none;
-      stroke-linecap: round;
-      stroke-dasharray: 220 1400;
-      animation: run 9s linear infinite;
-    }
-    @keyframes run {
-      0%   { stroke-dashoffset: 1620; }
-      100% { stroke-dashoffset: -220; }
-    }
-    .node-group {
-      opacity: 0;
-      animation: enter 0.7s cubic-bezier(.2,.8,.2,1) forwards;
-      transform-origin: center;
-    }
-    @keyframes enter {
-      0%   { opacity: 0; transform: translateY(10px) scale(0.92); }
-      100% { opacity: 1; transform: translateY(0) scale(1); }
-    }
-    .ring {
-      fill: none;
-      stroke: #6ee7c7;
-      stroke-width: 1.4;
-      opacity: 0;
-      transform-origin: center;
-      animation: pulse 9s ease-in-out infinite;
-    }
-    @keyframes pulse {
-      0%   { opacity: 0; transform: scale(0.7); }
-      6%   { opacity: 0.55; transform: scale(1); }
-      16%  { opacity: 0; transform: scale(1.5); }
-      100% { opacity: 0; transform: scale(1.5); }
-    }
-    .core {
-      fill: #101828;
-      stroke: #33405c;
-      stroke-width: 1.2;
-      animation: light 9s ease-in-out infinite;
-    }
-    @keyframes light {
-      0%, 4%   { fill: #101828; stroke: #33405c; }
-      8%, 12%  { fill: #123227; stroke: #6ee7c7; }
-      20%, 100%{ fill: #101828; stroke: #33405c; }
-    }
-    .label {
-      font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 15px;
-      font-weight: 600;
-      letter-spacing: 0.2px;
-      fill: #eef2f7;
-      text-anchor: middle;
-      dominant-baseline: central;
-    }
-    .num {
-      font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 11px;
-      font-weight: 600;
-      fill: #6ee7c7;
-      text-anchor: middle;
-      dominant-baseline: central;
-      opacity: 0.85;
-    }
-    ]]>
-  </style>
-</defs>
-
-<rect class="bg" width="480" height="1250" rx="18"/>
-
-<!-- static spine -->
-<path class="spine" d="M240,70 L240,1180"/>
-<!-- animated flowing light along spine -->
-<path class="flowline" d="M240,70 L240,1180" filter="url(#soft)"/>
-
-<!-- Stage nodes: circle marker + glow ring + label to the right -->
-<!-- 1 Idea -->
-<g class="node-group" style="animation-delay:0.05s">
-  <circle class="ring" cx="240" cy="70" r="30" style="animation-delay:0s"/>
-  <circle class="core" cx="240" cy="70" r="18" style="animation-delay:0s"/>
-  <text class="num" x="240" y="70">01</text>
-  <rect x="270" y="53" width="130" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="335" y="70">Idea</text>
-</g>
-
-<!-- 2 Architecture -->
-<g class="node-group" style="animation-delay:0.2s">
-  <circle class="ring" cx="240" cy="171" r="30" style="animation-delay:0.75s"/>
-  <circle class="core" cx="240" cy="171" r="18" style="animation-delay:0.75s"/>
-  <text class="num" x="240" y="171">02</text>
-  <rect x="80" y="154" width="140" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="150" y="171">Architecture</text>
-</g>
-
-<!-- 3 UI / UX -->
-<g class="node-group" style="animation-delay:0.35s">
-  <circle class="ring" cx="240" cy="272" r="30" style="animation-delay:1.5s"/>
-  <circle class="core" cx="240" cy="272" r="18" style="animation-delay:1.5s"/>
-  <text class="num" x="240" y="272">03</text>
-  <rect x="270" y="255" width="130" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="335" y="272">UI / UX</text>
-</g>
-
-<!-- 4 Frontend -->
-<g class="node-group" style="animation-delay:0.5s">
-  <circle class="ring" cx="240" cy="373" r="30" style="animation-delay:2.25s"/>
-  <circle class="core" cx="240" cy="373" r="18" style="animation-delay:2.25s"/>
-  <text class="num" x="240" y="373">04</text>
-  <rect x="80" y="356" width="140" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="150" y="373">Frontend</text>
-</g>
-
-<!-- 5 Backend & APIs -->
-<g class="node-group" style="animation-delay:0.65s">
-  <circle class="ring" cx="240" cy="474" r="30" style="animation-delay:3s"/>
-  <circle class="core" cx="240" cy="474" r="18" style="animation-delay:3s"/>
-  <text class="num" x="240" y="474">05</text>
-  <rect x="270" y="457" width="150" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="345" y="474">Backend &amp; APIs</text>
-</g>
-
-<!-- 6 Database -->
-<g class="node-group" style="animation-delay:0.8s">
-  <circle class="ring" cx="240" cy="575" r="30" style="animation-delay:3.75s"/>
-  <circle class="core" cx="240" cy="575" r="18" style="animation-delay:3.75s"/>
-  <text class="num" x="240" y="575">06</text>
-  <rect x="80" y="558" width="140" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="150" y="575">Database</text>
-</g>
-
-<!-- 7 AI -->
-<g class="node-group" style="animation-delay:0.95s">
-  <circle class="ring" cx="240" cy="676" r="30" style="animation-delay:4.5s"/>
-  <circle class="core" cx="240" cy="676" r="18" style="animation-delay:4.5s"/>
-  <text class="num" x="240" y="676">07</text>
-  <rect x="270" y="659" width="130" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="335" y="676">AI</text>
-</g>
-
-<!-- 8 Automation -->
-<g class="node-group" style="animation-delay:1.1s">
-  <circle class="ring" cx="240" cy="777" r="30" style="animation-delay:5.25s"/>
-  <circle class="core" cx="240" cy="777" r="18" style="animation-delay:5.25s"/>
-  <text class="num" x="240" y="777">08</text>
-  <rect x="80" y="760" width="140" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="150" y="777">Automation</text>
-</g>
-
-<!-- 9 Testing -->
-<g class="node-group" style="animation-delay:1.25s">
-  <circle class="ring" cx="240" cy="878" r="30" style="animation-delay:6s"/>
-  <circle class="core" cx="240" cy="878" r="18" style="animation-delay:6s"/>
-  <text class="num" x="240" y="878">09</text>
-  <rect x="270" y="861" width="130" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="335" y="878">Testing</text>
-</g>
-
-<!-- 10 Deployment -->
-<g class="node-group" style="animation-delay:1.4s">
-  <circle class="ring" cx="240" cy="979" r="30" style="animation-delay:6.75s"/>
-  <circle class="core" cx="240" cy="979" r="18" style="animation-delay:6.75s"/>
-  <text class="num" x="240" y="979">10</text>
-  <rect x="80" y="962" width="140" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="150" y="979">Deployment</text>
-</g>
-
-<!-- 11 Monitoring -->
-<g class="node-group" style="animation-delay:1.55s">
-  <circle class="ring" cx="240" cy="1080" r="30" style="animation-delay:7.5s"/>
-  <circle class="core" cx="240" cy="1080" r="18" style="animation-delay:7.5s"/>
-  <text class="num" x="240" y="1080">11</text>
-  <rect x="270" y="1063" width="150" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="345" y="1080">Monitoring</text>
-</g>
-
-<!-- 12 Iteration -->
-<g class="node-group" style="animation-delay:1.7s">
-  <circle class="ring" cx="240" cy="1180" r="30" style="animation-delay:8.25s"/>
-  <circle class="core" cx="240" cy="1180" r="18" style="animation-delay:8.25s"/>
-  <text class="num" x="240" y="1180">12</text>
-  <rect x="80" y="1163" width="140" height="34" rx="8" fill="#141b2b" stroke="#243049" stroke-width="1"/>
-  <text class="label" x="150" y="1180">Iteration</text>
-</g>
-
-<!-- loop-back arc: Iteration feeds back to Idea -->
-<path d="M209,1180 C110,1180 110,70 209,70" fill="none" stroke="#33405c" stroke-width="1.4" stroke-dasharray="4 5"/>
-<path d="M215,63 L209,70 L215,77" fill="none" stroke="#33405c" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
- pipeline-pro.svg…]()
-
-
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f22838f0-558c-4559-a822-86ed04dfd0e2" width="480" alt="Development pipeline: Idea to Iteration" />
+</div>
 
 I don't see AI as simply another API to add to an application.
 
@@ -605,36 +392,107 @@ to:
 
 > **"I can design, build, automate, deploy, and continuously improve intelligent software systems."**
 
----
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Where+I%27m+Heading" alt="Heading Animation" />
+</div>
 
-# 🎯 Where I'm Heading
+<br/>
 
-I'm building toward becoming a **well-rounded software engineer specializing in AI-powered and automated systems**.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3b3Z1azB2Zm4zYmhjdXVma2R6cXo2N3Y4Z3d6bDR0aDg3c3BxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="280" height="180" />
+</div>
 
-My strongest areas of interest are:
+<br/>
 
-```text
-Full-Stack Engineering
-        +
-AI Engineering
-        +
-Automation
-        +
-Backend Systems
-        +
-Data & Intelligent Systems
-        ↓
-AI-Powered Software Products
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=700&lines=Building+toward+becoming+a+well-rounded+software+engineer;Specializing+in+AI-powered+and+automated+systems" alt="Subtitle Animation" />
+</div>
 
-I'm particularly interested in building systems where:
+<br/>
 
-> **Good software engineering provides the foundation.
-> AI provides intelligence.
-> Automation provides efficiency.
-> Data provides context.**
+## 🧠 My Strongest Areas of Interest
 
----
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=300&color=5B5FEF&center=true&vCenter=true&width=350&lines=Full-Stack+Engineering;AI+Engineering;Automation;Backend+Systems;Data+%26+Intelligent+Systems" alt="Interests Animation" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=0D9488&center=true&vCenter=true&width=400&lines=+%2B+%2B+%2B+%2B;%E2%86%93;AI-Powered+Software+Products" alt="Flow Animation" />
+
+</div>
+
+<br/>
+
+## 💡 Building Systems Where
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" style="border-right: 2px solid #5B5FEF;">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=250&lines=Good+software+engineering;provides+the+foundation" alt="Foundation" />
+  <br/>
+  <br/>
+</td>
+<td width="50%" align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=0D9488&center=true&vCenter=true&width=200&lines=AI+provides+intelligence" alt="Intelligence" />
+  <br/>
+  <br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="border-right: 2px solid #5B5FEF;">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=250&lines=Automation+provides+efficiency" alt="Efficiency" />
+  <br/>
+  <br/>
+</td>
+<td width="50%" align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=0D9488&center=true&vCenter=true&width=250&lines=Data+provides+context" alt="Context" />
+  <br/>
+  <br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 The Result
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=5B5FEF&center=true&vCenter=true&width=600&lines=AI-Powered+Software+Products;Intelligent+%26+Automated+Systems;Scalable+%26+Data-Driven+Solutions" alt="Result Animation" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=450&lines=Engineering+Excellence;AI+Innovation;Automation+First;Data+Driven" alt="Mantra Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=80&section=footer" />
+</div>
+
 
 # 📊 GitHub Activity
 
@@ -660,9 +518,41 @@ I'm interested in connecting with developers, engineers, researchers, and builde
 
 If you're building something interesting, I'd be happy to **connect, collaborate, exchange ideas, or learn from it.**
 
----
+<br/>
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=800&lines=Build+it.;Make+it+intelligent.;Automate+it.;Make+it+useful.;Scale+it.;Ship+it." alt="Build Animation" />
+
+<br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<br/>
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-coder-err&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5B5FEF&line=0D9488&point=FFFFFF&area=true&area_color=0D9488" width="100%" />
+</div>
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<br/>
 
 ## 💭
 
@@ -673,6 +563,21 @@ If you're building something interesting, I'd be happy to **connect, collaborate
 ### ⚙️ Automate it.
 
 ### 🚀 Make it useful.
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=450&lines=Engineering+Excellence;AI+Innovation;Automation+First;Data+Driven" alt="Mantra Animation" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=5B5FEF" />
+  <img src="https://img.shields.io/github/followers/Git-coder-err?style=for-the-badge&color=0D9488" />
+  <img src="https://img.shields.io/github/stars/Git-coder-err?style=for-the-badge&color=5B5FEF" />
+</div>
 
 <br/>
 
