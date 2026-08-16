@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=180&section=header&text=Genesis%20Diaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Application%20Developer&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=180&section=header&text=Genesis%20Diaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Developer&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=5B5FEF&center=true&vCenter=true&width=800&lines=Building+full-stack+applications;Engineering+AI-powered+systems;Designing+modern+web+and+mobile+experiences;Turning+ideas+into+working+products;Learning%2C+building%2C+and+iterating" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=5B5FEF&center=true&vCenter=true&width=850&lines=Building+full-stack+applications;Engineering+AI-powered+systems;Automating+real-world+workflows;Integrating+LLMs+into+useful+products;Designing+intelligent+software+systems;Turning+ideas+into+working+products" alt="Typing Animation" />
 
 <br/>
 
@@ -18,85 +18,114 @@
 
 # 👋 Hello, I'm Genesis
 
-I'm a **full-stack developer and AI application developer** focused on building practical software systems that combine **modern application engineering, artificial intelligence, data, and thoughtful user experiences**.
+I'm a **Full-Stack Developer and AI & Automation Developer** focused on building practical software systems that combine **modern application engineering, artificial intelligence, workflow automation, data, and thoughtful user experiences**.
 
-My development experience has been shaped through building **AI-powered applications, mobile and web platforms, backend services, database-driven systems, real-time applications, and algorithmic trading software**.
+My experience comes from designing and developing systems across **AI-powered applications, web and mobile platforms, backend services, databases, real-time systems, intelligent trading platforms, and automated workflows**.
 
-I enjoy working across the entire lifecycle of a product:
+I don't see AI as simply an API that gets added to an application.
 
-**Idea → Architecture → UI/UX → Frontend → Backend → Database → AI → Testing → Deployment**
+I focus on building systems where **AI, software, data, and automation work together** to create useful and intelligent products.
 
-Rather than focusing only on writing code, I aim to understand **how the pieces of a system work together, how they scale, and how they can be improved over time.**
+### 🧠 My Core Direction
 
----
+**Full-Stack Engineering + AI Engineering + Automation + Intelligent Systems**
 
-<div align="center">
+My development workflow can span:
 
-### ⚡ My Engineering Focus
-
-**Full-Stack Development** · **AI Applications** · **Backend Engineering** · **System Design** · **Intelligent Systems**
-
-</div>
+**Idea → Architecture → UI/UX → Frontend → Backend → Database → AI → Automation → Testing → Deployment → Monitoring**
 
 ---
 
-# 🧩 What I Build
+# ⚡ What I Specialize In
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 AI-Powered Applications
+<td width="33%" align="center">
 
-Applications that use LLMs, NLP, speech recognition, recommendations, and intelligent workflows to create more personalized experiences.
+### 🌐 Full-Stack Engineering
+
+Building complete web and mobile systems from frontend interfaces to backend APIs, databases, authentication, and deployment.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🤖 AI Engineering
+
+Integrating LLMs, NLP, speech recognition, conversational AI, recommendations, and intelligent features into real applications.
 
 </td>
 
-<td width="50%">
+<td width="33%" align="center">
 
-### 🌐 Full-Stack Systems
+### ⚙️ Automation
 
-End-to-end applications covering frontend interfaces, backend services, APIs, authentication, databases, and deployment.
+Designing automated workflows that connect APIs, applications, AI services, databases, and external systems.
 
 </td>
+
 </tr>
 
 <tr>
-<td>
 
-### 📱 Web & Mobile Applications
+<td align="center">
 
-Modern responsive web applications and cross-platform mobile experiences focused on usability and maintainability.
+### 📱 Mobile & Web
 
-</td>
-
-<td>
-
-### 📊 Intelligent Trading Systems
-
-Algorithmic trading, paper trading, backtesting, market data processing, strategy analysis, and financial analytics.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ⚡ Real-Time Systems
-
-Live dashboards, WebSockets, Socket.IO, event-driven communication, and real-time application features.
+Modern responsive applications using React, React Native, Next.js, Expo, TypeScript, and Tailwind CSS.
 
 </td>
 
-<td>
+<td align="center">
 
-### 🧪 Research & Innovation
+### 🧠 Intelligent Systems
 
-Capstone and experimental systems exploring how emerging technologies can solve real-world problems.
+Combining software engineering, AI, data, and decision-making logic to create systems that go beyond static applications.
 
 </td>
+
+<td align="center">
+
+### 📊 Data & Trading
+
+Backtesting, market data, strategy systems, analytics, real-time data, and AI-assisted financial applications.
+
+</td>
+
 </tr>
 </table>
+
+---
+
+# 🤖 AI & Automation
+
+AI is one of the areas I'm actively building deeper expertise in.
+
+### AI Development
+
+`LLM Integration` · `OpenAI API` · `Groq` · `Whisper` · `BERT/NLP` · `Conversational AI` · `AI Recommendations` · `Speech Processing`
+
+### Automation
+
+`n8n` · `Workflow Automation` · `API Automation` · `Webhooks` · `Event-Driven Workflows` · `AI-Powered Workflows` · `Data Automation`
+
+### What I Build With AI
+
+* 🤖 AI-powered assistants
+* 💬 Conversational AI
+* 🎙️ Speech-enabled applications
+* 🧠 Personalized recommendation systems
+* 📚 AI-assisted learning systems
+* 📊 AI-assisted analytics
+* 🔄 Automated workflows
+* 🔌 API-to-API integrations
+* ⚡ Event-driven automation
+* 🧩 AI integrated into existing software systems
+
+### My AI Development Philosophy
+
+> **AI should not exist simply because it is possible. It should exist because it makes the system more useful, intelligent, efficient, or personalized.**
 
 ---
 
@@ -118,6 +147,10 @@ Capstone and experimental systems exploring how emerging technologies can solve 
 
 `Node.js` · `Express.js` · `Python` · `FastAPI` · `REST APIs` · `WebSockets` · `Socket.IO`
 
+### AI & Automation
+
+`OpenAI` · `Groq` · `Whisper` · `BERT/NLP` · `LLMs` · `Conversational AI` · `n8n` · `Workflow Automation` · `Webhooks`
+
 ### Data & Infrastructure
 
 <p>
@@ -125,10 +158,6 @@ Capstone and experimental systems exploring how emerging technologies can solve 
 </p>
 
 `PostgreSQL` · `MySQL` · `Supabase` · `Prisma` · `Docker` · `Vercel`
-
-### AI & Intelligent Systems
-
-`LLM Integration` · `OpenAI API` · `Groq` · `Whisper` · `BERT/NLP` · `Conversational AI` · `AI Recommendations`
 
 ### Engineering & DevOps
 
@@ -140,219 +169,160 @@ Capstone and experimental systems exploring how emerging technologies can solve 
 
 ---
 
-# ⭐ Featured Projects
+# 🧩 How I Think About Modern Software
 
-## 🗣️ SultiAI
-
-### AI-Powered Bisaya / Cebuano Language Learning Platform
-
-> **AI × Language Education × Cultural Preservation**
-
-SultiAI is a cross-platform mobile application designed to help English speakers learn **Bisaya/Cebuano** through interactive lessons, conversational AI, pronunciation practice, personalized learning, and gamification.
-
-The project combines **mobile development, backend engineering, AI services, speech processing, NLP, database systems, and user-centered UI/UX** into a single learning platform.
-
-### 🔧 Technology
-
-`React Native` `Expo` `Node.js` `Express` `Groq` `Whisper` `BERT` `PostgreSQL` `Supabase`
-
-### ✨ Core Capabilities
-
-* 🤖 AI-powered language tutor
-* 🎙️ Voice and pronunciation practice
-* 🧠 Personalized learning
-* 📚 Situation-based lessons
-* 🏆 XP, levels, streaks, and gamification
-* 🌏 Cultural and regional language learning
-* 💬 Community features
-* 📊 Learning progress and analytics
-
-### 🎯 Engineering Focus
-
-**AI integration · mobile architecture · backend APIs · personalization · gamification · database design · UI/UX · real-time interaction**
-
----
-
-## 📈 Algorithmic Trading System
-
-### Full-Stack Paper Trading & Backtesting Platform
-
-> **Market Data → Strategy → Decision → Order → Monitoring**
-
-A full-stack algorithmic trading platform designed around the complete software workflow of a trading system.
-
-The project combines **market data, strategy execution, backtesting, analytics, real-time communication, authentication, and AI-assisted analysis**.
-
-### 🔧 Technology
-
-`React` `Vite` `Tailwind CSS` `Node.js` `Express` `Python` `FastAPI` `MySQL` `WebSockets` `JWT`
-
-### ✨ Core Capabilities
-
-* 📊 Market data
-* 🧠 Trading strategies
-* 🧪 Historical backtesting
-* ⚙️ Strategy builder
-* 📈 Trading analytics
-* 🤖 AI-assisted analysis
-* 🔄 Real-time market updates
-* 🔐 JWT authentication
-* 📋 Paper trading
-
-### 🎯 Engineering Focus
-
-**System architecture · strategy execution · financial data · backtesting · APIs · real-time systems · analytics**
-
----
-
-## 🤖 Pivot
-
-### AI Trading Education & Backtesting
-
-Pivot explores the intersection of **AI, financial education, trading strategies, historical market data, and performance analysis**.
-
-### Focus
-
-`AI Assistance` · `Trading Education` · `Strategy Analysis` · `Backtesting` · `Market Data` · `Analytics`
-
----
-
-# 🏗️ How I Engineer Software
-
-I don't want to stop at **"the application works."**
-
-I aim to build systems that are **structured, maintainable, secure, scalable, and understandable**.
+I see modern applications as more than just a frontend and backend.
 
 ```text
                          💡 IDEA
                            │
                            ▼
-                    📋 REQUIREMENTS
+                    🏗️ ARCHITECTURE
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+        🌐 SOFTWARE     🤖 AI        ⚙️ AUTOMATION
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                     🗄️ DATA
                            │
                            ▼
-                  🏗️ SYSTEM ARCHITECTURE
-                           │
-                           ▼
-                    🗄️ DATA MODEL
-                           │
-                           ▼
-                       🎨 UI / UX
-                           │
-              ┌────────────┴────────────┐
-              ▼                         ▼
-        💻 FRONTEND                 ⚙️ BACKEND
-        Web / Mobile                APIs / Logic
-              │                         │
-              └────────────┬────────────┘
-                           ▼
-                    🤖 AI / SERVICES
+                    🔌 INTEGRATIONS
                            │
                            ▼
                      🧪 TESTING
                            │
                            ▼
-                    🔀 VERSION CONTROL
-                           │
-                           ▼
                      🚀 DEPLOYMENT
                            │
                            ▼
-                  📈 MONITOR & ITERATE
+                    📈 MONITORING
+                           │
+                           ▼
+                    🔄 ITERATION
 ```
 
-### Principles I Care About
+The goal is to create systems where:
 
-| Principle              | What it means to me                               |
-| ---------------------- | ------------------------------------------------- |
-| 🧱 **Architecture**    | Build systems with clear responsibilities         |
-| 🧹 **Maintainability** | Keep code understandable and reusable             |
-| 🔐 **Security**        | Protect users, APIs, and data                     |
-| ⚡ **Performance**      | Minimize unnecessary complexity and bottlenecks   |
-| 📈 **Scalability**     | Design with future growth in mind                 |
-| 🎨 **UX**              | Make functionality understandable to users        |
-| 🧪 **Quality**         | Test, debug, and validate instead of assuming     |
-| 📊 **Observability**   | Understand what the system is doing in production |
-| 🔄 **Iteration**       | Improve through feedback and real usage           |
+**Software handles the application.**
+
+**AI handles intelligence.**
+
+**Automation handles repetitive workflows.**
+
+**Data provides the foundation for decisions.**
+
+**Engineering connects everything together.**
 
 ---
 
-# 📚 Currently Improving
+# 🏆 What I'm Building
 
-I'm continuously strengthening my skills in:
+My projects reflect this combination of technologies.
+
+### 🗣️ SultiAI
+
+**AI × Mobile × Language Learning × Personalization × Automation**
+
+An AI-powered Bisaya/Cebuano learning platform combining conversational AI, speech processing, personalized learning, gamification, and mobile development.
+
+### 📈 Algorithmic Trading System
+
+**Full-Stack × Data × Automation × AI × Real-Time Systems**
+
+A paper-trading and backtesting platform combining market data, trading strategies, analytics, real-time communication, and AI-assisted analysis.
+
+### 🤖 Pivot
+
+**AI × Financial Education × Data × Backtesting**
+
+An AI-assisted trading education and analysis platform focused on helping users understand strategies and historical market behavior.
+
+---
+
+# 🏗️ Engineering Mindset
+
+I don't want to stop at:
+
+> **"The application works."**
+
+I want to reach:
+
+> **"The system is well-designed, automated, intelligent, maintainable, secure, and capable of evolving."**
+
+I care about:
+
+* 🧱 Architecture
+* 🧹 Maintainability
+* 🔐 Security
+* ⚡ Performance
+* 📈 Scalability
+* 🤖 Useful AI integration
+* ⚙️ Automation
+* 🧪 Testing
+* 📊 Observability
+* 🔄 Continuous improvement
+
+---
+
+# 🚀 Where I'm Heading
+
+I'm building toward becoming a **well-rounded software engineer specializing in AI-powered and automated systems**.
+
+My long-term interests are centered around:
 
 ```text
-Backend Engineering
-System Design
-Software Architecture
-Database Engineering
-API Architecture
-Cloud Infrastructure
-DevOps & CI/CD
-AI Application Engineering
-Machine Learning
-Real-Time Systems
-Application Security
-Testing & Quality Engineering
-Scalable Software Architecture
+Full-Stack Engineering
+        +
+AI Engineering
+        +
+Workflow Automation
+        +
+Backend Systems
+        +
+Data & Intelligent Systems
+        ↓
+AI-Powered Software Products
 ```
 
-My current focus is moving from:
-
-> **"I can build applications."**
-
-toward:
-
-> **"I can design, build, test, deploy, and continuously improve reliable software systems."**
+I'm particularly interested in building systems where **AI doesn't replace good software engineering—it enhances it.**
 
 ---
 
-# 🎯 Where I'm Heading
+# 📚 Currently Deepening My Skills
 
-My long-term goal is to become a **well-rounded software engineer** capable of taking a product from an initial idea through architecture, implementation, deployment, and iteration.
+I'm continuously improving in:
 
-I'm particularly interested in:
-
-* 💻 Full-Stack Engineering
-* ⚙️ Backend Engineering
-* 🤖 AI Application Development
-* 🏗️ Software Architecture
-* 📊 Data & Intelligent Systems
-* 💹 FinTech & Algorithmic Systems
-
-I'm especially interested in projects where **software engineering and AI come together to solve meaningful problems**.
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-coder-err&theme=tokyonight&animation=rise" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-coder-err&theme=tokyonight&animation=load" width="47%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Git-coder-err&theme=tokyonight&animation=stagger" width="47%" />
-
-</div>
-
-
-# 🤝 Let's Build Something
-
-I'm always interested in connecting with people working on:
-
-**Software Engineering · Artificial Intelligence · Full-Stack Development · Mobile Development · FinTech · Open Source · Research & Innovation**
-
-If you're building something interesting, I'd be happy to connect, collaborate, or learn from it.
+* Advanced Backend Engineering
+* System Design
+* Software Architecture
+* AI Application Engineering
+* LLM Integration
+* AI Automation
+* Workflow Automation
+* API Architecture
+* Database Engineering
+* Cloud Infrastructure
+* DevOps & CI/CD
+* Machine Learning
+* NLP
+* Real-Time Systems
+* Application Security
+* Testing & Quality Engineering
+* Scalable Software Architecture
 
 ---
 
 <div align="center">
 
-### 💭 Engineering is not just about writing code.
+### ⚡ Build it.
 
-### It's about understanding problems, designing systems, and building solutions that last.
+### 🤖 Make it intelligent.
+
+### ⚙️ Automate it.
+
+### 🚀 Make it useful.
 
 <br/>
 
