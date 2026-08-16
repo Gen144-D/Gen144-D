@@ -22,15 +22,77 @@ I'm a **Full-Stack Developer and AI & Automation Developer** focused on building
 
 My development experience comes from building systems across **AI-powered applications, web and mobile platforms, backend services, database-driven applications, real-time systems, intelligent trading platforms, and automated workflows**.
 
-I enjoy working across the complete development lifecycle:
-
 <div align="center">
-<img src="https://github.com/user-attachments/assets/f22838f0-558c-4559-a822-86ed04dfd0e2" width="480" alt="Development pipeline: Idea to Iteration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=500&lines=%F0%9F%94%84+Development+Lifecycle" alt="Title Animation" />
 </div>
 
-I don't see AI as simply another API to add to an application.
+<br/>
 
-I focus on building systems where **software, AI, automation, and data work together to solve meaningful problems.**
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%92%A1" alt="Idea" />
+        <br/>
+        <sub><b>Idea</b></sub>
+      </td>
+      <td align="center" width="8%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
+      </td>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%8F%97%EF%B8%8F" alt="Architecture" />
+        <br/>
+        <sub><b>Architecture</b></sub>
+      </td>
+      <td align="center" width="8%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
+      </td>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%92%BB" alt="Development" />
+        <br/>
+        <sub><b>Development</b></sub>
+      </td>
+      <td align="center" width="8%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
+      </td>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%A4%96" alt="AI" />
+        <br/>
+        <sub><b>AI</b></sub>
+      </td>
+      <td align="center" width="8%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
+      </td>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%A7%AA" alt="Testing" />
+        <br/>
+        <sub><b>Testing</b></sub>
+      </td>
+      <td align="center" width="8%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
+      </td>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%9A%80" alt="Deploy" />
+        <br/>
+        <sub><b>Deploy</b></sub>
+      </td>
+      <td align="center" width="8%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
+      </td>
+      <td align="center" width="14%">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%94%84" alt="Iterate" />
+        <br/>
+        <sub><b>Iterate</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=300&color=0D9488&center=true&vCenter=true&width=600&lines=From+idea+to+production+%E2%80%A2+Continuous+improvement+%E2%80%A2+Full+lifecycle" alt="Footer Animation" />
+</div>
 
 ---
 
