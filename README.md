@@ -29,60 +29,60 @@ My development experience comes from building systems across **AI-powered applic
 <br/>
 
 <div align="center">
-  <table>
+  <table style="background: #0d1117; border-radius: 12px; padding: 12px; border: 1px solid #1f242f;">
     <tr>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%92%A1" alt="Idea" />
         <br/>
-        <sub><b>Idea</b></sub>
+        <sub style="color: #c9d1d9;"><b>Idea</b></sub>
       </td>
-      <td align="center" width="8%">
+      <td align="center" width="8%" style="background: transparent; padding: 8px 2px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%8F%97%EF%B8%8F" alt="Architecture" />
         <br/>
-        <sub><b>Architecture</b></sub>
+        <sub style="color: #c9d1d9;"><b>Architecture</b></sub>
       </td>
-      <td align="center" width="8%">
+      <td align="center" width="8%" style="background: transparent; padding: 8px 2px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%92%BB" alt="Development" />
         <br/>
-        <sub><b>Development</b></sub>
+        <sub style="color: #c9d1d9;"><b>Development</b></sub>
       </td>
-      <td align="center" width="8%">
+      <td align="center" width="8%" style="background: transparent; padding: 8px 2px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%A4%96" alt="AI" />
         <br/>
-        <sub><b>AI</b></sub>
+        <sub style="color: #c9d1d9;"><b>AI</b></sub>
       </td>
-      <td align="center" width="8%">
+      <td align="center" width="8%" style="background: transparent; padding: 8px 2px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%A7%AA" alt="Testing" />
         <br/>
-        <sub><b>Testing</b></sub>
+        <sub style="color: #c9d1d9;"><b>Testing</b></sub>
       </td>
-      <td align="center" width="8%">
+      <td align="center" width="8%" style="background: transparent; padding: 8px 2px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%9A%80" alt="Deploy" />
         <br/>
-        <sub><b>Deploy</b></sub>
+        <sub style="color: #c9d1d9;"><b>Deploy</b></sub>
       </td>
-      <td align="center" width="8%">
+      <td align="center" width="8%" style="background: transparent; padding: 8px 2px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=30&height=30&lines=%E2%86%92" alt="Arrow" />
       </td>
-      <td align="center" width="14%">
+      <td align="center" width="14%" style="background: transparent; padding: 8px 4px;">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1&pause=1&color=5B5FEF&center=true&vCenter=true&width=50&height=40&lines=%F0%9F%94%84" alt="Iterate" />
         <br/>
-        <sub><b>Iterate</b></sub>
+        <sub style="color: #c9d1d9;"><b>Iterate</b></sub>
       </td>
     </tr>
   </table>
@@ -93,10 +93,6 @@ My development experience comes from building systems across **AI-powered applic
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=300&color=0D9488&center=true&vCenter=true&width=600&lines=From+idea+to+production+%E2%80%A2+Continuous+improvement+%E2%80%A2+Full+lifecycle" alt="Footer Animation" />
 </div>
-
----
-
-<div align="center">
 
 ## ⚡ My Core Focus
 
