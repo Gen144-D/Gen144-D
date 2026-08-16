@@ -1,255 +1,361 @@
+<div align="center">
+
 # 👋 Hi, I'm Genesis Diaz
 
-### Full-Stack Developer • AI Application Developer • Software Engineering Student
+### `Full-Stack Developer` · `AI Application Developer` · `Software Engineer`
 
-I build **practical, scalable, and user-focused software** with a strong interest in **full-stack development, artificial intelligence, mobile applications, and intelligent systems**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5B5FEF&center=true&vCenter=true&width=750&lines=Building+full-stack+applications;Exploring+AI-powered+systems;Designing+scalable+software;Turning+ideas+into+working+products" alt="Typing Animation" />
 
-My experience comes from developing academic and independent projects involving **AI-powered applications, language-learning platforms, algorithmic trading systems, real-time applications, backend APIs, databases, and modern UI/UX**.
+<br/>
 
-I enjoy turning ideas into working systems—from designing the architecture and database to building the frontend, backend, APIs, AI integrations, and deployment workflow.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Git-coder-err)
+[![Profile Views](https://komarev.com/ghpvc/?username=Git-coder-err\&style=for-the-badge\&color=5B5FEF)](https://github.com/Git-coder-err)
 
----
-
-## 🚀 What I Build
-
-* 🤖 **AI-Powered Applications**
-* 🌐 **Full-Stack Web Applications**
-* 📱 **Cross-Platform Mobile Applications**
-* 📊 **Algorithmic Trading & Backtesting Systems**
-* 🔌 **REST APIs & Backend Services**
-* 🗄️ **Database-Driven Systems**
-* 🎨 **Modern UI/UX & Design Systems**
-* ⚡ **Real-Time Applications**
-* 🧪 **Research & Capstone Projects**
+</div>
 
 ---
 
-## 🧠 Technical Skills
+## 🧑‍💻 About Me
 
-### Frontend
+I'm a developer focused on building **complete, practical, and user-centered software systems**.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+My experience comes from designing and developing projects across **full-stack web development, mobile applications, artificial intelligence, backend engineering, databases, real-time systems, and algorithmic trading**.
 
-### Backend
+I enjoy working across the entire development lifecycle—from **system architecture and database design to frontend development, backend APIs, AI integration, testing, deployment, and iteration**.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+I'm especially interested in the intersection of:
 
-### Databases
+> **Software Engineering × Artificial Intelligence × Data × Intelligent Systems**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+```text
+                    ┌──────────────────────┐
+                    │       AN IDEA        │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │  SYSTEM ARCHITECTURE │
+                    └──────────┬───────────┘
+                               ↓
+              ┌────────────────┴────────────────┐
+              ↓                                 ↓
+       ┌──────────────┐                  ┌──────────────┐
+       │   FRONTEND   │                  │    BACKEND   │
+       │ Web / Mobile │                  │ APIs / Logic │
+       └──────┬───────┘                  └──────┬───────┘
+              │                                 │
+              └────────────────┬────────────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │     DATA + AI        │
+                    │ DB / LLM / ML / NLP  │
+                    └──────────┬───────────┘
+                               ↓
+                    ┌──────────────────────┐
+                    │ TEST • DEPLOY • ITER │
+                    └──────────────────────┘
+```
+
+---
+
+# 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Applications
+
+LLM-powered applications, conversational systems, recommendation engines, NLP, and AI-assisted workflows.
+
+</td>
+<td width="50%">
+
+### 🌐 Full-Stack Systems
+
+Modern web applications with structured frontend, backend APIs, authentication, databases, and deployment.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📱 Mobile Applications
+
+Cross-platform mobile applications with React Native, Expo, APIs, authentication, and modern UI/UX.
+
+</td>
+<td>
+
+### 📊 Intelligent Trading Systems
+
+Algorithmic trading platforms, strategy builders, backtesting engines, market data, and analytics.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚡ Real-Time Applications
+
+WebSockets, Socket.IO, live data, real-time dashboards, and event-driven application features.
+
+</td>
+<td>
+
+### 🧪 Research & Innovation
+
+Capstone systems and experimental projects combining software engineering with emerging technologies.
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🧠 Tech Stack
+
+### Frontend & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,typescript,javascript,tailwind,vite" />
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,docker,vercel" />
+</p>
 
 ### AI & Intelligent Systems
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Python](https://img.shields.io/badge/AI%2FML-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-* LLM API Integration
-* Conversational AI
-* Speech Recognition
-* Whisper
-* BERT-based NLP
-* AI Recommendation Systems
-* AI-assisted Learning Systems
-* Algorithmic Trading & Strategy Analysis
+**AI / ML experience:**
 
-### Tools & Infrastructure
+`LLM Integration` · `OpenAI API` · `Groq` · `Whisper` · `BERT/NLP` · `AI Recommendations` · `Conversational AI` · `AI-assisted Learning`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+### Development Tools
 
-* Git & GitHub
-* GitHub Actions
-* Docker
-* REST APIs
-* WebSockets / Socket.IO
-* JWT Authentication
-* Supabase RLS
-* CI/CD
-* Application Monitoring
-* Cloud Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode" />
+</p>
+
+**Also experienced with:**
+
+`REST APIs` · `WebSockets` · `Socket.IO` · `JWT` · `Supabase RLS` · `CI/CD` · `Cloud Deployment` · `Application Monitoring`
 
 ---
 
 # ⭐ Featured Projects
 
-## 🗣️ SultiAI — AI-Powered Bisaya Language Learning Platform
+## 🗣️ SultiAI
 
-**SultiAI** is a mobile language-learning application designed to help English speakers learn **Bisaya/Cebuano** through interactive lessons, AI conversation, pronunciation practice, personalized learning, and gamification.
+### AI-Powered Bisaya / Cebuano Language Learning Platform
 
-### Key Technologies
+> **AI × Language Education × Cultural Preservation**
+
+SultiAI is a mobile language-learning platform designed to help English speakers learn **Bisaya/Cebuano** through interactive lessons, AI conversation, pronunciation practice, personalized learning, and gamification.
+
+### 🔧 Stack
 
 `React Native` `Expo` `Node.js` `Express` `Groq` `Whisper` `BERT` `PostgreSQL` `Supabase`
 
-### Core Features
+### ✨ Highlights
 
-* 🤖 AI Language Tutor
-* 🎙️ Voice & Pronunciation Practice
-* 🧠 Personalized Learning
-* 📚 Situation-Based Lessons
-* 🏆 XP, Levels & Streaks
-* 🌏 Cultural & Regional Language Learning
-* 💬 Community Features
-* 📊 Learning Progress Analytics
+* 🤖 AI-powered language tutor
+* 🎙️ Voice & pronunciation practice
+* 🧠 Personalized learning
+* 📚 Situation-based lessons
+* 🏆 XP, levels & streaks
+* 🌏 Cultural & regional language learning
+* 💬 Community features
+* 📊 Learning analytics
 
-> **Goal:** Combine modern AI technology with language education and cultural preservation.
+**Engineering focus:** AI integration, mobile architecture, backend APIs, personalization, gamification, database design, and modern UI/UX.
 
 ---
 
 ## 📈 Algorithmic Trading System
 
-A full-stack **algorithmic paper-trading and backtesting platform** designed around the complete trading workflow:
+### Full-Stack Paper Trading & Backtesting Platform
 
-**Market Data → Strategy → Decision → Order → Monitoring**
+> **Market Data → Strategy → Decision → Order → Monitoring**
 
-### Architecture
+A full-stack trading system designed around the complete algorithmic trading workflow.
+
+### 🔧 Stack
 
 `React` `Vite` `Tailwind CSS` `Node.js` `Express` `Python` `FastAPI` `MySQL` `WebSockets` `JWT`
 
-### Features
+### ✨ Highlights
 
-* 📊 Market Data
-* 🧠 Trading Strategies
-* 🧪 Historical Backtesting
-* ⚙️ Strategy Builder
-* 📈 Trading Analytics
-* 🤖 AI-Assisted Analysis
-* 🔄 Real-Time Market Updates
-* 🔐 JWT Authentication
-* 📋 Paper Trading
-
----
-
-## 🤖 Pivot — AI Trading Education & Backtesting
-
-An AI-assisted trading education and analysis platform focused on helping users understand trading concepts, strategies, and historical market behavior.
-
-### Focus Areas
-
-* Trading education
-* Strategy analysis
-* Backtesting
-* AI-assisted explanations
-* Market data
-* Performance analytics
+* 📊 Market data
+* 🧠 Trading strategies
+* 🧪 Historical backtesting
+* ⚙️ Strategy builder
+* 📈 Trading analytics
+* 🤖 AI-assisted analysis
+* 🔄 Real-time market updates
+* 🔐 JWT authentication
+* 📋 Paper trading
 
 ---
 
-# 🛠️ Engineering Approach
+## 🤖 Pivot
 
-I try to approach software development beyond simply "making the code work."
+### AI Trading Education & Backtesting Platform
 
-### My development process
+Pivot explores the combination of **AI-assisted education, financial data, strategy analysis, and backtesting**.
+
+### Focus
+
+`Trading Education` · `Strategy Analysis` · `Backtesting` · `AI Assistance` · `Market Data` · `Analytics`
+
+---
+
+# 🏗️ How I Approach Software Engineering
+
+I don't want to simply write code that works.
+
+I aim to understand **why the system exists, how its components interact, and how it can evolve over time.**
 
 ```text
-Idea
-  ↓
-Requirements
-  ↓
-System Architecture
-  ↓
-Database Design
-  ↓
-UI/UX Design
-  ↓
-Frontend Development
-  ↓
-Backend & API Development
-  ↓
-AI / External Service Integration
-  ↓
-Testing & Debugging
-  ↓
-Git / Version Control
-  ↓
-Deployment
-  ↓
-Monitoring & Iteration
+┌────────────────────────────────────────────────────┐
+│                    DEVELOPMENT                     │
+├────────────────────────────────────────────────────┤
+│                                                    │
+│  💡 Idea                                           │
+│      ↓                                             │
+│  📋 Requirements                                   │
+│      ↓                                             │
+│  🏗️ Architecture                                  │
+│      ↓                                             │
+│  🗄️ Database Design                               │
+│      ↓                                             │
+│  🎨 UI / UX                                        │
+│      ↓                                             │
+│  💻 Frontend                                       │
+│      ↓                                             │
+│  ⚙️ Backend & APIs                                │
+│      ↓                                             │
+│  🤖 AI / External Services                         │
+│      ↓                                             │
+│  🧪 Testing & Debugging                            │
+│      ↓                                             │
+│  🔀 Git & Version Control                           │
+│      ↓                                             │
+│  🚀 Deployment                                     │
+│      ↓                                             │
+│  📈 Monitoring & Iteration                         │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
 
-I pay particular attention to:
+### Engineering Principles
 
-* Clean and maintainable architecture
-* Reusable components
-* API design
-* Database structure
-* Authentication & authorization
-* Error handling
-* Responsive UI/UX
-* Accessibility
-* Performance
-* Scalability
-* Security
-* Developer experience
+* **Maintainability** — code should be understandable and reusable.
+* **Scalability** — design systems with future growth in mind.
+* **Security** — authentication, authorization, validation, and data protection matter.
+* **Performance** — avoid unnecessary complexity and bottlenecks.
+* **Accessibility** — interfaces should remain usable and readable.
+* **Consistency** — reusable components and design systems reduce technical debt.
+* **Observability** — errors and application behavior should be measurable.
+* **Iteration** — good software improves through testing and feedback.
 
 ---
 
-# 📚 Currently Improving
+# 📚 Currently Learning & Improving
 
-I'm continuously expanding my skills in:
+I'm continuously strengthening my knowledge in:
 
-* Advanced Backend Engineering
-* System Design
-* Software Architecture
-* Database Optimization
-* API Design
-* Cloud Deployment
-* DevOps & CI/CD
-* AI Application Development
-* Machine Learning
-* Real-Time Systems
-* Scalable Application Architecture
-* Testing & Software Quality
+```text
+Backend Engineering
+System Design
+Software Architecture
+Database Optimization
+API Architecture
+Cloud Infrastructure
+DevOps & CI/CD
+AI Application Engineering
+Machine Learning
+Real-Time Systems
+Distributed Systems
+Testing & Quality Engineering
+Application Security
+```
 
----
-
-# 🎯 Career Direction
-
-My long-term goal is to become a **strong full-stack/software engineer capable of designing and building complete production-ready systems**.
-
-I'm particularly interested in the intersection of:
-
-**Software Engineering × AI × Data × Intelligent Systems**
-
-I want to continue progressing from building functional academic projects toward developing **reliable, scalable, maintainable, and production-oriented software**.
+My goal is to move beyond simply building **functional applications** and become better at building **reliable, maintainable, scalable software systems**.
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Git-coder-err\&show_icons=true\&theme=tokyonight\&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Git-coder-err\&layout=compact\&theme=tokyonight\&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Git-coder-err&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-coder-err&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-coder-err&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🌱 What I'm Working Toward
+
+My long-term goal is to become a **well-rounded software engineer** capable of taking a system from an initial idea to a production-ready implementation.
+
+I'm particularly interested in roles and projects involving:
+
+**Full-Stack Engineering**
+**Backend Engineering**
+**AI Application Development**
+**Software Architecture**
+**FinTech & Intelligent Systems**
+
+I'm currently focused on strengthening the fundamentals that matter most in real-world engineering:
+
+> **Architecture → Code Quality → Security → Scalability → Testing → Deployment**
 
 ---
 
 # 🤝 Let's Connect
 
-I'm interested in connecting with other developers, researchers, and technology enthusiasts who are interested in:
+I'm always interested in meeting developers, engineers, researchers, and builders working on interesting technology.
 
-* Software Engineering
-* Artificial Intelligence
-* Full-Stack Development
-* Mobile Development
-* FinTech
-* Developer Tools
-* Open Source
-* Research & Innovation
+If you're interested in:
+
+`Software Engineering` · `AI` · `Full-Stack Development` · `Mobile Development` · `FinTech` · `Open Source` · `Research` · `Developer Tools`
+
+feel free to connect.
 
 ---
 
-### 💡 "Build systems that solve real problems, not just projects that demonstrate code."
+<div align="center">
 
-**Thanks for visiting my profile! 🚀**
+### 💭
+
+> **"Don't just build software that works. Build software that can grow."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=120&section=footer" />
+
+</div>
