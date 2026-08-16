@@ -327,21 +327,16 @@ I'm especially interested in projects where **software engineering and AI come t
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Git-coder-err&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-coder-err&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-coder-err&theme=tokyonight&animation=rise" width="95%" />
 
 <br/>
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-coder-err&theme=tokyonight&animation=load" width="47%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Git-coder-err&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Git-coder-err&theme=tokyonight&animation=stagger" width="47%" />
 
 </div>
 
----
 
 # 🤝 Let's Build Something
 
