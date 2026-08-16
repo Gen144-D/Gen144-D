@@ -25,7 +25,7 @@ My development experience comes from building systems across **AI-powered applic
 I enjoy working across the complete development lifecycle:
 
 <div align="center">
-<img src="./assets/pipeline-pro.svg" width="480" alt="Development pipeline: Idea to Iteration" />
+<img src="https://raw.githubusercontent.com/Git-coder-err/Git-coder-err/main/assets/pipeline-pro.svg" width="480" alt="Development pipeline: Idea to Iteration" />
 </div>
 
 I don't see AI as simply another API to add to an application.
