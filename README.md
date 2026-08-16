@@ -175,7 +175,212 @@ AI is one of the areas I'm actively developing deeper expertise in.
 
 `Git` · `GitHub` · `GitHub Actions` · `CI/CD` · `JWT` · `Supabase RLS` · `Cloud Deployment` · `Application Monitoring`
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Where+I%27m+Heading" alt="Heading Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3b3Z1azB2Zm4zYmhjdXVma2R6cXo2N3Y4Z3d6bDR0aDg3c3BxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="280" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=700&lines=Building+toward+becoming+a+well-rounded+software+engineer;Specializing+in+AI-powered+and+automated+systems" alt="Subtitle Animation" />
+</div>
+
+<br/>
+
+## 🧠 My Strongest Areas of Interest
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=300&color=5B5FEF&center=true&vCenter=true&width=350&lines=Full-Stack+Engineering;AI+Engineering;Automation;Backend+Systems;Data+%26+Intelligent+Systems" alt="Interests Animation" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=0D9488&center=true&vCenter=true&width=400&lines=+%2B+%2B+%2B+%2B;%E2%86%93;AI-Powered+Software+Products" alt="Flow Animation" />
+
+</div>
+
+<br/>
+
+## 💡 Building Systems Where
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" style="border-right: 2px solid #5B5FEF;">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=250&lines=Good+software+engineering;provides+the+foundation" alt="Foundation" />
+  <br/>
+  <br/>
+</td>
+<td width="50%" align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=0D9488&center=true&vCenter=true&width=200&lines=AI+provides+intelligence" alt="Intelligence" />
+  <br/>
+  <br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="border-right: 2px solid #5B5FEF;">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=250&lines=Automation+provides+efficiency" alt="Efficiency" />
+  <br/>
+  <br/>
+</td>
+<td width="50%" align="center">
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=0D9488&center=true&vCenter=true&width=250&lines=Data+provides+context" alt="Context" />
+  <br/>
+  <br/>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 The Result
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=5B5FEF&center=true&vCenter=true&width=600&lines=AI-Powered+Software+Products;Intelligent+%26+Automated+Systems;Scalable+%26+Data-Driven+Solutions" alt="Result Animation" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=450&lines=Engineering+Excellence;AI+Innovation;Automation+First;Data+Driven" alt="Mantra Animation" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=80&section=footer" />
+</div>
+
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-coder-err&theme=tokyonight&animation=rise" width="95%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-coder-err&theme=tokyonight&animation=load" width="47%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Git-coder-err&theme=tokyonight&animation=stagger" width="47%" />
+
+</div>
+
 ---
+
+# 🤝 Let's Build Something
+
+I'm interested in connecting with developers, engineers, researchers, and builders working on:
+
+**Artificial Intelligence · Software Engineering · Automation · Full-Stack Development · Mobile Applications · FinTech · Open Source · Research & Innovation**
+
+If you're building something interesting, I'd be happy to **connect, collaborate, exchange ideas, or learn from it.**
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=800&lines=Build+it.;Make+it+intelligent.;Automate+it.;Make+it+useful.;Scale+it.;Ship+it." alt="Build Animation" />
+
+<br/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<br/>
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-coder-err&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5B5FEF&line=0D9488&point=FFFFFF&area=true&area_color=0D9488" width="100%" />
+</div>
+
+<br/>
+
+<div>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
+
+<br/>
+
+## 💭
+
+### Build it.
+
+### 🤖 Make it intelligent.
+
+### ⚙️ Automate it.
+
+### 🚀 Make it useful.
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=450&lines=Engineering+Excellence;AI+Innovation;Automation+First;Data+Driven" alt="Mantra Animation" />
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=5B5FEF" />
+  <img src="https://img.shields.io/github/followers/Git-coder-err?style=for-the-badge&color=0D9488" />
+  <img src="https://img.shields.io/github/stars/Git-coder-err?style=for-the-badge&color=5B5FEF" />
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=130&section=footer" />
+
+</div>
+
+---
+
+
+
+My goal is to progress from:
+
+> **"I can build applications."**
+
+to:
+
+> **"I can design, build, automate, deploy, and continuously improve intelligent software systems."**
+
 
 # ⭐ Featured Projects
 
@@ -383,204 +588,3 @@ Application Security
 Testing & Quality Engineering
 Scalable Software Architecture
 ```
-
-My goal is to progress from:
-
-> **"I can build applications."**
-
-to:
-
-> **"I can design, build, automate, deploy, and continuously improve intelligent software systems."**
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=500&lines=%F0%9F%8E%AF+Where+I%27m+Heading" alt="Heading Animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ3b3Z1azB2Zm4zYmhjdXVma2R6cXo2N3Y4Z3d6bDR0aDg3c3BxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L8K62iTDkzGX6/giphy.gif" width="280" height="180" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=0D9488&center=true&vCenter=true&width=700&lines=Building+toward+becoming+a+well-rounded+software+engineer;Specializing+in+AI-powered+and+automated+systems" alt="Subtitle Animation" />
-</div>
-
-<br/>
-
-## 🧠 My Strongest Areas of Interest
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=300&color=5B5FEF&center=true&vCenter=true&width=350&lines=Full-Stack+Engineering;AI+Engineering;Automation;Backend+Systems;Data+%26+Intelligent+Systems" alt="Interests Animation" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=600&color=0D9488&center=true&vCenter=true&width=400&lines=+%2B+%2B+%2B+%2B;%E2%86%93;AI-Powered+Software+Products" alt="Flow Animation" />
-
-</div>
-
-<br/>
-
-## 💡 Building Systems Where
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" style="border-right: 2px solid #5B5FEF;">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=250&lines=Good+software+engineering;provides+the+foundation" alt="Foundation" />
-  <br/>
-  <br/>
-</td>
-<td width="50%" align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=0D9488&center=true&vCenter=true&width=200&lines=AI+provides+intelligence" alt="Intelligence" />
-  <br/>
-  <br/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="border-right: 2px solid #5B5FEF;">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=250&lines=Automation+provides+efficiency" alt="Efficiency" />
-  <br/>
-  <br/>
-</td>
-<td width="50%" align="center">
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=0D9488&center=true&vCenter=true&width=250&lines=Data+provides+context" alt="Context" />
-  <br/>
-  <br/>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-
-### 🚀 The Result
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=5B5FEF&center=true&vCenter=true&width=600&lines=AI-Powered+Software+Products;Intelligent+%26+Automated+Systems;Scalable+%26+Data-Driven+Solutions" alt="Result Animation" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=450&lines=Engineering+Excellence;AI+Innovation;Automation+First;Data+Driven" alt="Mantra Animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=80&section=footer" />
-</div>
-
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Git-coder-err&theme=tokyonight&animation=rise" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-coder-err&theme=tokyonight&animation=load" width="47%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Git-coder-err&theme=tokyonight&animation=stagger" width="47%" />
-
-</div>
-
----
-
-# 🤝 Let's Build Something
-
-I'm interested in connecting with developers, engineers, researchers, and builders working on:
-
-**Artificial Intelligence · Software Engineering · Automation · Full-Stack Development · Mobile Applications · FinTech · Open Source · Research & Innovation**
-
-If you're building something interesting, I'd be happy to **connect, collaborate, exchange ideas, or learn from it.**
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=500&color=5B5FEF&center=true&vCenter=true&width=800&lines=Build+it.;Make+it+intelligent.;Automate+it.;Make+it+useful.;Scale+it.;Ship+it." alt="Build Animation" />
-
-<br/>
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
-<br/>
-
-<div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
-
-<br/>
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-coder-err&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5B5FEF&line=0D9488&point=FFFFFF&area=true&area_color=0D9488" width="100%" />
-</div>
-
-<br/>
-
-<div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
-
-<br/>
-
-## 💭
-
-### Build it.
-
-### 🤖 Make it intelligent.
-
-### ⚙️ Automate it.
-
-### 🚀 Make it useful.
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=200&color=0D9488&center=true&vCenter=true&width=450&lines=Engineering+Excellence;AI+Innovation;Automation+First;Data+Driven" alt="Mantra Animation" />
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=5B5FEF" />
-  <img src="https://img.shields.io/github/followers/Git-coder-err?style=for-the-badge&color=0D9488" />
-  <img src="https://img.shields.io/github/stars/Git-coder-err?style=for-the-badge&color=5B5FEF" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=130&section=footer" />
-
-</div>
