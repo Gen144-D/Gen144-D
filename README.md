@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=190&section=header&text=Genesis%20Diaz&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Developer&descAlignY=62&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B5FEF,100:0D9488&height=180&section=header&text=Genesis%20Diaz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Application%20Developer&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=5B5FEF&center=true&vCenter=true&width=900&lines=Building+full-stack+software;Engineering+AI-powered+applications;Designing+automated+workflows;Connecting+software%2C+AI%2C+and+data;Building+intelligent+systems;Turning+ideas+into+working+products" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=5B5FEF&center=true&vCenter=true&width=800&lines=Building+full-stack+applications;Engineering+AI-powered+systems;Designing+modern+web+and+mobile+experiences;Turning+ideas+into+working+products;Learning%2C+building%2C+and+iterating" alt="Typing Animation" />
 
 <br/>
 
 <a href="https://github.com/Git-coder-err">
-<img src="https://img.shields.io/badge/GitHub-Git--coder--err-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Git--coder--err-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/Git-coder-err?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore-5B5FEF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" />
+
+<img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=5B5FEF&label=PROFILE+VIEWS" />
 
 </div>
 
