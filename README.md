@@ -370,9 +370,7 @@ If you're building something interesting, I'd be happy to **connect, collaborate
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Git-coder-err&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=5B5FEF&line=0D9488&point=FFFFFF&area=true&area_color=0D9488" width="100%" />
-</div>
+
 
 <br/>
 
