@@ -16,7 +16,7 @@
 
 ---
 
-# 👋 Hello, I'm Genesis
+# I'm Genesis
 
 I'm a **Full-Stack Developer and AI & Automation Developer** focused on building practical software systems that combine **modern application engineering, artificial intelligence, automation, data, and user-centered experiences**.
 
