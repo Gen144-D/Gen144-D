@@ -338,8 +338,6 @@ AI is one of the areas I'm actively developing deeper expertise in.
 
 <div align="center">
 
-<br/>
-
 
 
 </div>
