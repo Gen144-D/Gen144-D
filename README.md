@@ -342,9 +342,7 @@ AI is one of the areas I'm actively developing deeper expertise in.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Git-coder-err&theme=tokyonight&animation=load" width="47%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Git-coder-err&theme=tokyonight&animation=stagger" width="47%" />
 
 </div>
 
