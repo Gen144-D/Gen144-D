@@ -10,8 +10,6 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=5B5FEF&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
