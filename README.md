@@ -336,12 +336,6 @@ AI is one of the areas I'm actively developing deeper expertise in.
 
 # 📊 GitHub Activity
 
-<div align="center">
-
-
-
-</div>
-
 ---
 
 # 🤝 Let's Build Something
