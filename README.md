@@ -400,8 +400,8 @@ If you're building something interesting, I'd be happy to **connect, collaborate
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/Git-coder-err?style=for-the-badge&color=0D9488" />
-  <img src="https://img.shields.io/github/stars/Git-coder-err?style=for-the-badge&color=5B5FEF" />
+  <img src="https://img.shields.io/github/followers/Gen144-D?style=for-the-badge&color=0D9488" />
+  <img src="https://img.shields.io/github/stars/Gen144-D?style=for-the-badge&color=5B5FEF" />
 </div>
 
 <br/>
