@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/Git-coder-err">
-<img src="https://img.shields.io/badge/GitHub-Git--coder--err-181717?style=for-the-badge&logo=github" />
+
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Git-coder-err&style=for-the-badge&color=5B5FEF&label=PROFILE+VIEWS" />
